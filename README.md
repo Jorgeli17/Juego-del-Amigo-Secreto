@@ -30,12 +30,14 @@ Este proyecto te permite organizar fácilmente un sorteo de amigo secreto entre 
 
 ## 📦 Cómo usar
 
-1. Descarga o clona este repositorio:
+1.Puedes acceder directamente en el sigui
+2. Descarga o clona este repositorio:
    ```bash
-   [git clone https://github.com/Jorgeli17/Juego-del-Amigo-Secreto.git)
+   git clone https://github.com/Jorgeli17/Juego-del-Amigo-Secreto.git
    ```
-2. Abre el archivo `index.html` en tu navegador favorito.
-3. ¡Listo para jugar!
+3. Abre el archivo `index.html` en tu navegador favorito.
+4. Tambien puedes usar el siguiente enlace para acceder: https://jorgeli17.github.io/Juego-del-Amigo-Secreto/
+5. ¡Listo para jugar!
 
 ## 💡 Sugerencias
 
